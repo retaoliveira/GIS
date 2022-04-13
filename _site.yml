@@ -15,7 +15,7 @@ navbar:
       href: materialr.html
   right:
     - icon: fa-github fa-lg
-      href: https://github.com/retaoliveira/R
+      href: https://github.com/retaoliveira/gis
 output:
   html_document:
     self_contained: false
